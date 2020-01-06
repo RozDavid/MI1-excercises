@@ -13,7 +13,7 @@ Also if on your computer the training takes a lot of time, you should consider c
 - Gradient Methods - *Sheet 4*
 - Validation and Regularization - *Sheet 5* - *With issue, TODO finish and correct*
 - DNNs - *Sheet 6* - *With Keras, TODO Tensorflow, PyTorch*
-- <del>LSTMs - *Sheet 6-2*</del>
+- LSTMs - *Sheet 6-2*
 - <del>Classification with RBF - *Sheet 7*</del>
 - <del>SVM and Statistical Learning - *Sheet 8*</del>
 
